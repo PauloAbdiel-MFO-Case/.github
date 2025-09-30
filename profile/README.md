@@ -35,10 +35,11 @@ Para configurar e rodar a aplicação localmente, siga os passos abaixo.
 
 ### 1\. Clonar os Repositórios
 
-Você precisará clonar ambos os repositórios (backend e frontend) e organizá-los em uma estrutura de pastas como a seguinte:
+Você precisará clonar ambos os repositórios (backend e frontend) e copiar o docker-compose.yml do repositório .github e organizá-los em uma estrutura de pastas como a seguinte:
 
 ```
 MFO/
+docker-compose.yml
 ├── backend/
 └── frontend/
 ```
