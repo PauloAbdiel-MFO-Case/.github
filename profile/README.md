@@ -125,9 +125,3 @@ npm test
 docker-compose exec backend npm test
 ```
 
-## Próximos Passos e Melhorias
-
-  - [ ] Implementar os testes do frontend.
-  - [ ] Configurar e integrar o SonarQube para análise contínua de qualidade de código.
-  - [ ] Adicionar a interface do Swagger UI no backend para documentação interativa da API.
-  - [ ] Finalizar a lógica de negócio para os casos de "Situação Atual" e "Versões Legadas".
